@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AuthorTest1" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-28T08:55:03" hostname="DESKTOP-9IPBSNF" time="0.042">
+  <properties/>
+  <testcase name="getAddress()" classname="AuthorTest1" time="0.039"/>
+  <testcase name="getName()" classname="AuthorTest1" time="0.001"/>
+  <testcase name="getEmail()" classname="AuthorTest1" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
