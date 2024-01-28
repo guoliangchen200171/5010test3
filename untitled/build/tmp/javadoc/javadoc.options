@@ -1,0 +1,7 @@
+-classpath 'D:\\5010practice3\\5010test3\\untitled\\build\\classes\\java\\main;D:\\5010practice3\\5010test3\\untitled\\build\\resources\\main'
+-d 'D:\\5010practice3\\5010test3\\untitled\\build\\docs\\javadoc'
+-doctitle 'untitled 1.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'untitled 1.0 API'
+'D:\\5010practice3\\5010test3\\untitled\\src\\main\\java\\Author.java'
